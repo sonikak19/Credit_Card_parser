@@ -17,9 +17,11 @@ It extracts key details like bank name, billing period, due date, and total due,
 🌐 Simple Streamlit web interface
 
 To install the requirements run:
+
 pip install -r requirements.txt
 
 🧩 Project Files
+
 Credit_Card_Analysis/
 ├── requirements.txt        # Requirements
 ├── app.py                  # Streamlit UI
@@ -28,6 +30,7 @@ Credit_Card_Analysis/
 ├── readFile.py             # Reads text using pdfplumber
 ├── statements/             # Stores PDF statements
 └── output.csv              # Extracted results
+
 
 💡 How It Works
 
