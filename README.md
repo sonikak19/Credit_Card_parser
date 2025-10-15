@@ -83,12 +83,19 @@ Download extracted data as CSV
 🧩 Project Files
 
 Credit_Card_Analysis/
+
 ├── requirements.txt        # Requirements
+
 ├── app.py                  # Streamlit UI
+
 ├── generate_statements.py  # Generates dummy PDFs
+
 ├── parser.py               # Extracts info from PDFs
+
 ├── readFile.py             # Reads text using pdfplumber
+
 ├── statements/             # Stores PDF statements
+
 └── output.csv              # Extracted results
 
 
